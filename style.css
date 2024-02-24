@@ -44,7 +44,7 @@ body{
 .nav{
  background-color: #121212;
   border-radius:8px;
-  height:250px;
+  height:100px;
   display:flex;
   flex-direction:column;
   justify-content: center;
@@ -52,7 +52,7 @@ body{
 }
 .lbr{
     background-color: #121212;
-    height:480px; 
+    height:580px; 
     border-radius:1rem;
     margin-top:2px;
     margin:3px 6px 5px 6px;
