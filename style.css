@@ -1,3 +1,28 @@
+@media (max-width: 768px) {
+    .main {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .main-content {
+        margin-left: 0;
+    }
+
+    .down {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .album, .player, .control {
+        width: 100%;
+    }
+}
+
+
 body{
     font-family:sans-serif;
     margin:0;
