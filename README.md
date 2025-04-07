@@ -25,11 +25,6 @@ A simple and clean clone of the Spotify desktop web player built using **HTML** 
 
 spotify-ui-clone/ ├── index.html ├── style.css ├── assets/ │ ├── images/ │ └── icons/ └── README.md
 
-yaml
-Copy
-Edit
-
----
 
 ## 🚀 How to Run the Project
 
@@ -37,15 +32,12 @@ Edit
    ```bash
    git clone https://github.com/TharunBudidha/spotify-ui-clone.git
 Navigate to the project folder:
-
-bash
-Copy
-Edit
 cd spotify-ui-clone
-Open index.html with any browser (double-click or drag into browser window).
+Open index.html with any browser
 
 📸 Preview
-(Add a screenshot of your UI here)
+![Screenshot from 2025-04-07 18-41-10](https://github.com/user-attachments/assets/872b3ffd-b88b-4ef7-b505-d6a0cc3d061c)
+
 
 🙌 Credits
 Inspired by the official Spotify Web Player.
