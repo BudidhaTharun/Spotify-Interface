@@ -46,11 +46,6 @@ Built for learning purposes only.
 📬 Contact
 Made with ❤️ by Tharun Budidha
 GitHub: @TharunBudidha
-
-yaml
-Copy
-Edit
-
 ---
 
 You can now copy this file and paste it into your project as `README.md`.
